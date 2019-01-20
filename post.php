@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Форма отправки</title>
+    <title>Короткая ссылка</title>
     <link href="style.css" rel="stylesheet">
 </head>
 <form class="decor" action="post.php" method="post">
