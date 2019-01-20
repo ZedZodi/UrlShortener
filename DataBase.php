@@ -5,7 +5,6 @@
         protected $datab;
         protected static $table = "shorturl_table";
         protected $timestamp;
-        protected static $chars = "123456789bcdfghjkmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ";
 
         // подключение к бд
         public function __construct($username = "root", $password = "", $host = "localhost", $dbname = "shorturl_DB", $options = [])
